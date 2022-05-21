@@ -2,9 +2,3 @@ body{
     background-color: darkcyan;
 
 }
-
-.boxContainer{
-    display: flex;
-    flex-wrap: wrap;
-    
-}
